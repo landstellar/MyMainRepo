@@ -162,6 +162,37 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Poc3__c</fullName>
+        <externalId>false</externalId>
+        <label>Poc3</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Poc31</fullName>
+                    <default>false</default>
+                    <label>Poc31</label>
+                </value>
+                <value>
+                    <fullName>Poc32</fullName>
+                    <default>false</default>
+                    <label>Poc32</label>
+                </value>
+                <value>
+                    <fullName>Poc33</fullName>
+                    <default>false</default>
+                    <label>Poc33</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>PotentialLiability__c</fullName>
         <externalId>false</externalId>
         <label>Potential Liability</label>
