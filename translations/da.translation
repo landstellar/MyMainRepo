@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- Sweet --></label>
+        <name>Sweet</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- trans1 --></label>
+        <name>trans1</name>
+    </customLabels>
+</Translations>
