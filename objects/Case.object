@@ -129,6 +129,18 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Hitext__c</fullName>
+        <externalId>false</externalId>
+        <label>Hitext</label>
+        <length>20</length>
+        <required>true</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>IsClosedOnCreate</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
