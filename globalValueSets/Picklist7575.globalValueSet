@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <customValue>
-        <fullName>Country</fullName>
+        <fullName>LB</fullName>
         <default>false</default>
-        <label>Country</label>
-    </customValue>
-    <customValue>
-        <fullName>Call Type</fullName>
-        <default>false</default>
-        <label>Call Type</label>
+        <label>LB</label>
     </customValue>
     <customValue>
         <fullName>SC</fullName>
@@ -16,9 +11,16 @@
         <label>SC</label>
     </customValue>
     <customValue>
-        <fullName>LB</fullName>
+        <fullName>Country</fullName>
         <default>false</default>
-        <label>LB</label>
+        <isActive>false</isActive>
+        <label>Country</label>
+    </customValue>
+    <customValue>
+        <fullName>Call Type</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Call Type</label>
     </customValue>
     <masterLabel>Picklist7575</masterLabel>
     <sorted>false</sorted>
